@@ -1,0 +1,7 @@
+diferença entre workflow e pipeline
+
+Workflow e tanto se atribui tanto a ações humanas como aprovações, revisões e caminhos alternativos, sendo o foco na organização geral de um processo de negócio ou projetos, podendo durar dias, semanas ou meses.
+Ex: Processos de contratação
+
+Pipeline já tem foco direto com automação dados sendo feito por computadores, I.A.'s e apenas gerenciado por humanos , e com foco na velocidade e repetição de tarefas, e alterações não são instasntaneas.
+Ex: Codigos, servidores etc.
